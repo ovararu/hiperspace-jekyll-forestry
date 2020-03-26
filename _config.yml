@@ -1,8 +1,8 @@
 ---
-title: Hyperspace green
+title: Hyperspace purple
 baseurl: "/"
 permalink: "/:title/"
-palette: green
+palette: purple
 palettes:
   blue:
     sass:
