@@ -2,7 +2,7 @@
 title: Hyperspace purple
 baseurl: "/"
 permalink: "/:title/"
-palette: purple
+palette: blue
 palettes:
   blue:
     sass:
